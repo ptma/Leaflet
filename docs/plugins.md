@@ -3519,6 +3519,17 @@ Allow the user to measure distances or areas.
 			<a href="https://github.com/rwev">rwev</a>
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/ptma/Leaflet.Measure">Leaflet.Measure</a>
+		</td>
+		<td>
+			Distance and area measurement control for Leaflet(<a href="https://ptma.github.io/Leaflet.Measure/examples/measure.html">Demo</a>).
+		</td>
+		<td>
+			<a href="https://github.com/ptma">JJ Jin</a>
+		</td>
+	</tr>
 	
 </table>
 
